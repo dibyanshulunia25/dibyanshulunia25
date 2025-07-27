@@ -48,16 +48,8 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dibyanshulunia25/dibyanshulunia25/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### ☕ Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/dibyanshulunia25/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:dibyanshulunia25@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:dibyanshulunia098@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
