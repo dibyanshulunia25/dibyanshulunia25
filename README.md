@@ -1,6 +1,6 @@
-<p align="center">
+<span align="center">
 # 👋 Hi there, I'm Dibyanshu Lunia
-</p>
+</span>
 
 
 <p align="center">
