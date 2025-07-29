@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on: **Wanderwise AI — A travel planner powered by AI**
 - 🌱 Learning: `Machine Learning`, `ASP.NET Core`, `DevOps`
 - 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `C#`, `Git`
-- 📫 How to reach me: **dibyanshulunia25@gmail.com**
+- 📫 How to reach me: **dibyanshulunia098@gmail.com**
 
 ---
 
