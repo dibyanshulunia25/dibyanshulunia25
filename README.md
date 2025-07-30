@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on: **Wanderwise AI — A travel planner powered by AI**
-- 🌱 Learning: `Machine Learning`, `ASP.NET Core`, `DevOps`
+- 🌱 Learning: `Machine Learning`, `ASP.NET Core`, `Python for Data Science`
 - 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `C#`, `Git`
 - 📫 How to reach me: **dibyanshulunia098@gmail.com**
 
