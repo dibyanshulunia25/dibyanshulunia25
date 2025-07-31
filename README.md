@@ -52,5 +52,5 @@
 ### ☕ Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/dibyanshulunia25/" target="_blank"><img width="100" height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:dibyanshulunia098@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:dibyanshulunia098@gmail.com" target="_blank"><img width="100" height="30" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
