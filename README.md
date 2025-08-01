@@ -37,7 +37,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dibyanshulunia25&theme=tokyonight&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dibyanshulunia25&theme=tokyonight&margin-w=10&row=2&column=8" />
 </p>
 
 ---
