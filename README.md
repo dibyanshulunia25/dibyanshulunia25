@@ -2,7 +2,7 @@
 👋 Hi there, I'm Dibyanshu Lunia
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=MERN+Stack+Developer;AI+and+ML+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=MERN+Stack+Developer;AI+/+ML+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
