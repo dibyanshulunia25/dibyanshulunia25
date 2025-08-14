@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29qcnloaXdkZDVmZmtvbzgzYmU3dngxYnQ0aXhpMThvbGI1cWVxcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px">
 </h1>
 
-<h3 align="center">Creative thinker | MERN Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Creative thinker | Competitive Programmer | MERN Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -109,9 +109,6 @@
   </a>
   <a href="mailto:dibyanshulunia098@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
