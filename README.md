@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dibyanshulunia25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshulunia25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
@@ -99,7 +99,7 @@
 
 ## ☕ Let's Connect!
 
-<p align="center">
+<p align="center" >
   I'm always open to collaborating on projects and discussing innovative ideas. Feel free to reach out!
 </p>
 
