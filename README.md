@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29qcnloaXdkZDVmZmtvbzgzYmU3dngxYnQ0aXhpMThvbGI1cWVxcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px">
   Hi there, I'm Dibyanshu Lunia
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29qcnloaXdkZDVmZmtvbzgzYmU3dngxYnQ0aXhpMThvbGI1cWVxcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px">
 </h1>
 
 <p align="center">
