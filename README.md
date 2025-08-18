@@ -92,7 +92,6 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR #1 in [repository]
 2. 🚀 Pushed 3 commits to [repository]
-3. 🔨 Opened issue #2 in [repository]
 <!--END_SECTION:activity-->
 
 ---
