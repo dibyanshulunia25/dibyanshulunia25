@@ -90,7 +90,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR #1 in [repository]
+
 <!--END_SECTION:activity-->
 
 ---
