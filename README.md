@@ -90,7 +90,7 @@
 ## ⚡ Recent Activity
 
 
-<!--END_SECTION:activity-->
+<!--ENDSECTION:activity-->
 
 ---
 
